@@ -1,0 +1,10 @@
+PImage imagen;
+
+void setup(){
+  size(800,400);
+  imagen = loadImage("imagen.png");
+}
+
+
+
+ 
